@@ -1,0 +1,28 @@
+{
+  "name": "ai-tech-articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supertask/ai-tech-articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/supertask/ai-tech-articles/issues"
+  },
+  "homepage": "https://github.com/supertask/ai-tech-articles#readme",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.8.0",
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2",
+    "zenn-cli": "^0.4.7"
+  }
+}
